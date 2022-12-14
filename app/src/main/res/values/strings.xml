@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SintomApp</string>
+    //Variable Del Boton Para Ir Al Login
+    <string name="BtnLogin">Inicia Session</string>
+    //Variable De La Imagen Del Logo
+    <string name="imgLogo">Logo</string>
+    //Variable Del Texto A para Crear Cuenta
+    <string name="TxTRegistro_A">Tienes Cuenta?</string>
+    //Variable Del Texto B para Crear Cuenta Al Hacer Click Redirigira A La Pagina De Registro
+    <string name="TxTRegistro_B">Registrate?</string>
+    <string name="title_activity_modulo_profesores_menu">ModuloProfesores_Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    //Aqui Ira El Nombre Del Maestro
+    <string name="nav_header_title">Juan Perez</string>
+    //Correo Del Profesor
+    <string name="nav_header_subtitle">JPerez@CorreInsticional.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    //Pestañas Del Menu Del Profesor
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_encuesta">Encuesta</string>
+    <string name="menu_cursos">Cursos</string>
+    <string name="menu_historial">Historial</string>
+    <string name="TxtProfesor">Profesor</string>
+    <string name="img_perfil_profesor" />
+    <string name="nombre_profesor">Juan Perez</string>
+    <string name="profesion_profesor">Instructor De Ciencias</string>
+    <string name="TxtUltimoRegistor">Ultimo Registro</string>
+    <string name="Txt_Ultima_Encuesta">Domingo 20 de Noviembre - 6:45 pm</string>
+    <string name="TxtEstado">OK</string>
+    <string name="TxtTestado">Estado</string>
+    <string name="Txt_Profesor_Estado">HABILITADO</string>
+    <string name="txtViewValor">Informacion Personal</string>
+    <string name="txtInfoP">Informacion Personal</string>
+    <string name="txtPCursos">Cursos</string>
+    <string name="txtNCurso1">Q14</string>
+    <string name="txtNCurso2">Q10</string>
+    <string name="txtCurso3">Q09</string>
+    <string name="imgPEstudiante">ImgenPEstudiante</string>
+</resources>

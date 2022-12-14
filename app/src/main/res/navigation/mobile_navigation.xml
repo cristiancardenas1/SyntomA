@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.example.sintomapp.ui.PInicio.InicioFragment"
+        android:label="@string/menu_inicio"
+        tools:layout="@layout/fragment_profesor_inicio" />
+
+    <fragment
+        android:id="@+id/nav_encuesta"
+        android:name="com.example.sintomapp.ui.PEncuasta.EncuestaFragment"
+        android:label="@string/menu_encuesta"
+        tools:layout="@layout/fragment_profesor_encuesta" />
+
+    <fragment
+        android:id="@+id/nav_curso"
+        android:name="com.example.sintomapp.ui.PCurso.CursoFragment"
+        android:label="@string/menu_cursos"
+        tools:layout="@layout/fragment_profesor_curso" />
+    <fragment
+        android:id="@+id/nav_historial"
+        android:name="com.example.sintomapp.ui.PEncuasta.EncuestaFragment"
+        android:label="@string/menu_historial"
+        tools:layout="@layout/fragment_profesor_encuesta" />
+</navigation>

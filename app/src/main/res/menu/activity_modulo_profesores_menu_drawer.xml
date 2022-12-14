@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@mipmap/inicio_logo_foreground"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_encuesta"
+            android:icon="@mipmap/encuesta_logo_foreground"
+            android:title="@string/menu_encuesta" />
+        <item
+            android:id="@+id/nav_curso"
+            android:icon="@mipmap/curso_logo_foreground"
+            android:title="@string/menu_cursos" />
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@mipmap/historial_logo_foreground"
+            android:title="@string/menu_historial" />
+    </group>
+</menu>
