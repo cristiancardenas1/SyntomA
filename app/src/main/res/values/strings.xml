@@ -38,4 +38,21 @@
     <string name="txtNCurso2">Q10</string>
     <string name="txtCurso3">Q09</string>
     <string name="imgPEstudiante">ImgenPEstudiante</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    //Encuesta de sintomas
+    <string name="encuestaSintomas">Encuesta de síntomas</string>
+    <string name="preguntaSintomas">Indique a continuación si presenta alguno de los siguientes síntomas</string>
+    <string name="sintoma1">Congestión nasal</string>
+    <string name="sintoma2">Tos</string>
+    <string name="sintoma3">Fiebre</string>
+    <string name="sintoma4">Dolor de cabeza</string>
+    <string name="sintoma5">Dolor garganta</string>
+    <string name="sintoma6">Dolores musculares</string>
+    <string name="sintoma7">Fatiga</string>
+    <string name="sintoma8">Pérdida de olfato</string>
+    <string name="sintoma9">Pérdida del gusto</string>
+    <string name="sintoma10">Diarrea o problemas intestinales</string>
+
 </resources>
