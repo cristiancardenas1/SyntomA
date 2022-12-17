@@ -1,5 +1,6 @@
 package com.example.sintomapp;
 //Pagina Pricipal By Yeisson Fonseca
+//Encuesta síntomas Liliana Gómez Ríos
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +8,7 @@ import android.os.Bundle;
 import android.widget.Button;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity<button> extends AppCompatActivity {
     Button BtnLogin;
 
     @Override
@@ -21,7 +22,4 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         });
     }
-
-
-
 }

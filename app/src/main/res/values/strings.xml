@@ -54,5 +54,6 @@
     <string name="sintoma8">Pérdida de olfato</string>
     <string name="sintoma9">Pérdida del gusto</string>
     <string name="sintoma10">Diarrea o problemas intestinales</string>
-
+    <string name="ingModuloEstud">Ingresar a módulo estudiante</string>
+    <string name="manejoDatos">Aceptar el manejo y almacenamiento de datos</string>
 </resources>
