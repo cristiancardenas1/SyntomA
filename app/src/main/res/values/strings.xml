@@ -54,5 +54,14 @@
     <string name="sintoma8">Pérdida de olfato</string>
     <string name="sintoma9">Pérdida del gusto</string>
     <string name="sintoma10">Diarrea o problemas intestinales</string>
+    //login
+    <string name="txtLogin">Login</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtTitleStudent">Estudiante</string>
+    <string name="txtsubtitleStudent">Ultimo Registro</string>
+    <string name="txtsubtitleStudent2">Estado</string>
+    <string name="btnStudent">Encuesta</string>
 
 </resources>
